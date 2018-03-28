@@ -1,6 +1,6 @@
 # golang-migrate
 
-This image provides [golang-migrate](https://github.com/golang-migrate/migrate/cli) CLI.
+This image provides [golang-migrate](https://github.com/golang-migrate/migrate/blob/master/cli/README.md) CLI.
 
 ## Supported tags and respective `Dockerfile` links
 
